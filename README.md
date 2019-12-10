@@ -4,7 +4,7 @@
 # Requirement
 - The app works on both Qlik Sense Desktop and Qlik Sense Server
 - More logs volume, more machine resource consumed. If resource shortage occurs, plsease either reduce the logs volume or increase machine resource
-- Please create C:\yheTemp\Script\ folder and place the script logs into the folder
+- Please create C:\yheTemp\Script\ folder and place the script logs into it
 
 # Instruction
 1. Download "QlikSenseConnectionChecker.qvf" onto yuor Windows Machine where installed Qlik Sense Desktop, or import it into your Qlik Sense Server from QMC.
